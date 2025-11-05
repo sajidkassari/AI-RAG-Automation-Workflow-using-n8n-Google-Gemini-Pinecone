@@ -1,0 +1,2 @@
+# AI-RAG-Automation-Workflow-using-n8n-Google-Gemini-Pinecone
+This project automates an end-to-end Retrieval-Augmented Generation (RAG) pipeline using n8n, integrating Google Gemini, Pinecone, and Google Drive.  The workflow automatically triggers using Google Drive, generates embeddings via Gemini, stores them in Pinecone, and enables a context-aware AI assistant to respond to user queries in real time.
